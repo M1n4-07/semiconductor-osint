@@ -1,5 +1,33 @@
 # semiconductor-osint
-OSINT repository for tracking the global semiconductor industry, supply chains, critical materials, and tech geopolitics.
+
+Open-source intelligence repository for monitoring the global semiconductor industry, supply chains, critical materials, and tech geopolitics.
+
+---
+
+## Overview
+
+This repository provides a structured framework to analyze the semiconductor ecosystem from an OSINT and strategic intelligence perspective.
+
+It integrates:
+
+* industrial actors
+* supply chain dependencies
+* geopolitical dynamics
+* critical materials
+* data sources and monitoring tools
+
+---
+
+## Repository Structure
+
+### Companies
+
+* [Foundries](./companies/foundries.md)
+* [Fabless](./companies/fabless.md)
+* [Equipment](./companies/equipment.md)
+
+Focus: key industry actors and their strategic roles.
+
 
 # Semiconductor OSINT
 
