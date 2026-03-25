@@ -72,3 +72,5 @@ It aims to support:
 
 **Author:** Marina Ortiz  
 **Focus:**  Intelligence and geopolitical analyst
+**LinkedIn:** [https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/marinaortiz/?locale=es)  
+**Focus:** Technology, Supply Chains, Economic Security
