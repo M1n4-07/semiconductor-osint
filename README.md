@@ -74,3 +74,10 @@ It aims to support:
 - risk assessment
 - supply chain monitoring
 - technology competition research
+
+---
+
+---
+
+**Author:** Marina Ortiz  
+**Focus:**  Intelligence and geopolitical analyst
