@@ -10,7 +10,6 @@
 
 Open-source intelligence repository for monitoring the global semiconductor industry, supply chains, critical materials, and tech geopolitics.
 
-[![OSINT](https://img.shields.io/badge/Focus-OSINT-blue)](./osint_tools/)
 ---
 
 ## Overview
