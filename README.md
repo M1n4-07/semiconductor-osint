@@ -1,6 +1,8 @@
 # semiconductor-osint
 ![OSINT](https://img.shields.io/badge/Focus-OSINT-blue) ![Geopolitics](https://img.shields.io/badge/Domain-Tech%20Geopolitics-red) ![Supply Chain](https://img.shields.io/badge/Area-Semiconductor%20Supply%20Chain-green) ![Status](https://img.shields.io/badge/Status-Active-success) ![Methodology](https://img.shields.io/badge/Methodology-Data%20%2B%20OSINT-orange)
 
+> A structured OSINT framework for understanding the semiconductor ecosystem.
+
 Open-source intelligence repository for monitoring the global semiconductor industry, supply chains, critical materials, and tech geopolitics.
 
 ---
