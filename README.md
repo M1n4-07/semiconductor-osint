@@ -19,6 +19,15 @@ It integrates:
 * critical materials
 * data sources and monitoring tools
 
+## Analytical Layers
+
+| Layer        | Focus                          |
+|--------------|--------------------------------|
+| Companies    | Industry actors                |
+| Supply Chain | Structure & dependencies       |
+| Materials    | Critical inputs & risks        |
+| Geopolitics  | Policy & strategic competition |
+| OSINT Tools  | Data & methodologies          |
 ---
 
 ## Repository Structure
